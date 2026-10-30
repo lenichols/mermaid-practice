@@ -5,5 +5,5 @@ erDiagram
 ```
 
 ```mermaid
-  CLIENT owns ACCOUNT
+  CCLIENT ||--o{ ACCOUNT : owns
 ```
